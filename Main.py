@@ -1,5 +1,4 @@
 import random
-import pyperclip
 
 symbol = 0
 lower = 0
