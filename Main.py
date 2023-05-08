@@ -8,7 +8,7 @@ count = 0
 password = []
 
 length = input("Enter NUM of characters in password (default 128)\n")
-length = 128 if length is '' else int(length)
+length = 128 if length == '' else int(length)
 
 #randomly select ascii character classes and individual characters
 
